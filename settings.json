@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "bhaiyaBot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Bhaiyasmp678.aternos.me",
+    "port": 12004,
     "version": "1.21.1"
   },
   "position": {
